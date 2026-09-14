@@ -1,0 +1,654 @@
+källa: Förråd_garagelista 2026-02-25.xlsx
+uppdaterad: '2026-02-25'
+beskrivning: Register över förråd och gemensamma förrådsutrymmen.
+förråd:
+  - id: F-687
+    typ: förråd
+    namn: Förråd 687
+    förrådsnummer: 687
+    placering: 79F
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0001
+    datastatus: verifierad
+  - id: F-686
+    typ: förråd
+    namn: Förråd 686
+    förrådsnummer: 686
+    placering: 79E
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0002
+    datastatus: verifierad
+  - id: F-685
+    typ: förråd
+    namn: Förråd 685
+    förrådsnummer: 685
+    placering: 79D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0003
+    datastatus: verifierad
+  - id: F-684
+    typ: förråd
+    namn: Förråd 684
+    förrådsnummer: 684
+    placering: 79C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0004
+    datastatus: verifierad
+  - id: F-683
+    typ: förråd
+    namn: Förråd 683
+    förrådsnummer: 683
+    placering: 79B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0005
+    datastatus: verifierad
+  - id: F-682
+    typ: förråd
+    namn: Förråd 682
+    förrådsnummer: 682
+    placering: 79A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0006
+    datastatus: verifierad
+  - id: F-681
+    typ: förråd
+    namn: Förråd 681
+    förrådsnummer: 681
+    placering: 77E
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0007
+    datastatus: verifierad
+  - id: F-680
+    typ: förråd
+    namn: Förråd 680
+    förrådsnummer: 680
+    placering: 77D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0008
+    datastatus: verifierad
+  - id: F-679
+    typ: förråd
+    namn: Förråd 679
+    förrådsnummer: 679
+    placering: 77C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0009
+    datastatus: verifierad
+  - id: F-678
+    typ: förråd
+    namn: Förråd 678
+    förrådsnummer: 678
+    placering: 77B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0010
+    datastatus: verifierad
+  - id: F-677
+    typ: förråd
+    namn: Förråd 677
+    förrådsnummer: 677
+    placering: 77A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0011
+    datastatus: verifierad
+  - id: F-613
+    typ: förråd
+    namn: Förråd 613
+    förrådsnummer: 613
+    placering: 71A
+    typ_av_förråd: Uteförråd
+    tillhör_lägenhet: L-118-1-0012
+    datastatus: verifierad
+  - id: F-615
+    typ: förråd
+    namn: Förråd 615
+    förrådsnummer: 615
+    placering: 71B
+    typ_av_förråd: Uteförråd
+    tillhör_lägenhet: L-118-1-0013
+    datastatus: verifierad
+  - id: F-612
+    typ: förråd
+    namn: Förråd 612
+    förrådsnummer: 612
+    placering: 71C
+    typ_av_förråd: Uteförråd
+    tillhör_lägenhet: L-118-1-0014
+    datastatus: verifierad
+  - id: F-605
+    typ: förråd
+    namn: Förråd 605
+    förrådsnummer: 605
+    placering: 71D
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0015
+    datastatus: verifierad
+  - id: F-634
+    typ: förråd
+    namn: Förråd 634
+    förrådsnummer: 634
+    placering: 71E
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0016
+    datastatus: verifierad
+  - id: F-614
+    typ: förråd
+    namn: Förråd 614
+    förrådsnummer: 614
+    placering: 71F
+    typ_av_förråd: Uteförråd
+    tillhör_lägenhet: L-118-1-0017
+    datastatus: verifierad
+  - id: F-606
+    typ: förråd
+    namn: Förråd 606
+    förrådsnummer: 606
+    placering: 71G
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0018
+    datastatus: verifierad
+  - id: F-630
+    typ: förråd
+    namn: Förråd 630
+    förrådsnummer: 630
+    placering: 71H
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0019
+    datastatus: verifierad
+  - id: F-636
+    typ: förråd
+    namn: Förråd 636
+    förrådsnummer: 636
+    placering: 75F
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0020
+    datastatus: verifierad
+  - id: F-643
+    typ: förråd
+    namn: Förråd 643
+    förrådsnummer: 643
+    placering: 75E
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0021
+    datastatus: verifierad
+  - id: F-639
+    typ: förråd
+    namn: Förråd 639
+    förrådsnummer: 639
+    placering: 75D
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0022
+    datastatus: verifierad
+  - id: F-641
+    typ: förråd
+    namn: Förråd 641
+    förrådsnummer: 641
+    placering: 75C
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0023
+    datastatus: verifierad
+  - id: F-621
+    typ: förråd
+    namn: Förråd 621
+    förrådsnummer: 621
+    placering: 75B
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0024
+    datastatus: verifierad
+  - id: F-622
+    typ: förråd
+    namn: Förråd 622
+    förrådsnummer: 622
+    placering: 75A
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0025
+    datastatus: verifierad
+  - id: F-676
+    typ: förråd
+    namn: Förråd 676
+    förrådsnummer: 676
+    placering: 73E
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0026
+    datastatus: verifierad
+  - id: F-675
+    typ: förråd
+    namn: Förråd 675
+    förrådsnummer: 675
+    placering: 73D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0027
+    datastatus: verifierad
+  - id: F-674
+    typ: förråd
+    namn: Förråd 674
+    förrådsnummer: 674
+    placering: 73C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0028
+    datastatus: verifierad
+  - id: F-673
+    typ: förråd
+    namn: Förråd 673
+    förrådsnummer: 673
+    placering: 73B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0029
+    datastatus: verifierad
+  - id: F-672
+    typ: förråd
+    namn: Förråd 672
+    förrådsnummer: 672
+    placering: 73A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0030
+    datastatus: verifierad
+  - id: F-671
+    typ: förråd
+    namn: Förråd 671
+    förrådsnummer: 671
+    placering: 65E
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0031
+    datastatus: verifierad
+  - id: F-670
+    typ: förråd
+    namn: Förråd 670
+    förrådsnummer: 670
+    placering: 65D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0032
+    datastatus: verifierad
+  - id: F-669
+    typ: förråd
+    namn: Förråd 669
+    förrådsnummer: 669
+    placering: 65C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0033
+    datastatus: verifierad
+  - id: F-668
+    typ: förråd
+    namn: Förråd 668
+    förrådsnummer: 668
+    placering: 65B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0034
+    datastatus: verifierad
+  - id: F-667
+    typ: förråd
+    namn: Förråd 667
+    förrådsnummer: 667
+    placering: 65A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0035
+    datastatus: verifierad
+  - id: F-608
+    typ: förråd
+    namn: Förråd 608
+    förrådsnummer: 608
+    placering: 67A
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0036
+    datastatus: verifierad
+  - id: F-607
+    typ: förråd
+    namn: Förråd 607
+    förrådsnummer: 607
+    placering: 67B
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0037
+    datastatus: verifierad
+  - id: F-638
+    typ: förråd
+    namn: Förråd 638
+    förrådsnummer: 638
+    placering: 67C
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0038
+    datastatus: verifierad
+  - id: F-616
+    typ: förråd
+    namn: Förråd 616
+    förrådsnummer: 616
+    placering: 67D
+    typ_av_förråd: Uteförråd
+    tillhör_lägenhet: L-118-1-0039
+    datastatus: verifierad
+  - id: F-604
+    typ: förråd
+    namn: Förråd 604
+    förrådsnummer: 604
+    placering: 67E
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0040
+    datastatus: verifierad
+  - id: F-602
+    typ: förråd
+    namn: Förråd 602
+    förrådsnummer: 602
+    placering: 67F
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0041
+    datastatus: verifierad
+  - id: F-632
+    typ: förråd
+    namn: Förråd 632
+    förrådsnummer: 632
+    placering: 67G
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0042
+    datastatus: verifierad
+  - id: F-642
+    typ: förråd
+    namn: Förråd 642
+    förrådsnummer: 642
+    placering: 67H
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0043
+    datastatus: verifierad
+  - id: F-623
+    typ: förråd
+    namn: Förråd 623
+    förrådsnummer: 623
+    placering: 63F
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0044
+    datastatus: verifierad
+  - id: F-624
+    typ: förråd
+    namn: Förråd 624
+    förrådsnummer: 624
+    placering: 63E
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0045
+    datastatus: verifierad
+  - id: F-633
+    typ: förråd
+    namn: Förråd 633
+    förrådsnummer: 633
+    placering: 63D
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0046
+    datastatus: verifierad
+  - id: F-617
+    typ: förråd
+    namn: Förråd 617
+    förrådsnummer: 617
+    placering: 63C
+    typ_av_förråd: Uteförråd
+    tillhör_lägenhet: L-118-1-0047
+    datastatus: verifierad
+  - id: F-644
+    typ: förråd
+    namn: Förråd 644
+    förrådsnummer: 644
+    placering: 63B
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0048
+    datastatus: verifierad
+  - id: F-645
+    typ: förråd
+    namn: Förråd 645
+    förrådsnummer: 645
+    placering: 63A
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0049
+    datastatus: verifierad
+  - id: F-666
+    typ: förråd
+    namn: Förråd 666
+    förrådsnummer: 666
+    placering: 61A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0050
+    datastatus: verifierad
+  - id: F-665
+    typ: förråd
+    namn: Förråd 665
+    förrådsnummer: 665
+    placering: 61B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0051
+    datastatus: verifierad
+  - id: F-664
+    typ: förråd
+    namn: Förråd 664
+    förrådsnummer: 664
+    placering: 61C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0052
+    datastatus: verifierad
+  - id: F-663
+    typ: förråd
+    namn: Förråd 663
+    förrådsnummer: 663
+    placering: 61D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0053
+    datastatus: verifierad
+  - id: F-625
+    typ: förråd
+    namn: Förråd 625
+    förrådsnummer: 625
+    placering: 59F
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0054
+    datastatus: verifierad
+  - id: F-626
+    typ: förråd
+    namn: Förråd 626
+    förrådsnummer: 626
+    placering: 59E
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0055
+    datastatus: verifierad
+  - id: F-631
+    typ: förråd
+    namn: Förråd 631
+    förrådsnummer: 631
+    placering: 59D
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0056
+    datastatus: verifierad
+  - id: F-640
+    typ: förråd
+    namn: Förråd 640
+    förrådsnummer: 640
+    placering: 59C
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0057
+    datastatus: verifierad
+  - id: F-647
+    typ: förråd
+    namn: Förråd 647
+    förrådsnummer: 647
+    placering: 59B
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0058
+    datastatus: verifierad
+  - id: F-646
+    typ: förråd
+    namn: Förråd 646
+    förrådsnummer: 646
+    placering: 59A
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0059
+    datastatus: verifierad
+  - id: F-662
+    typ: förråd
+    namn: Förråd 662
+    förrådsnummer: 662
+    placering: 57A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0060
+    datastatus: verifierad
+  - id: F-661
+    typ: förråd
+    namn: Förråd 661
+    förrådsnummer: 661
+    placering: 57B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0061
+    datastatus: verifierad
+  - id: F-660
+    typ: förråd
+    namn: Förråd 660
+    förrådsnummer: 660
+    placering: 57C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0062
+    datastatus: verifierad
+  - id: F-659
+    typ: förråd
+    namn: Förråd 659
+    förrådsnummer: 659
+    placering: 57D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0063
+    datastatus: verifierad
+  - id: F-627
+    typ: förråd
+    namn: Förråd 627
+    förrådsnummer: 627
+    placering: 55F
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0064
+    datastatus: verifierad
+  - id: F-628
+    typ: förråd
+    namn: Förråd 628
+    förrådsnummer: 628
+    placering: 55E
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0065
+    datastatus: verifierad
+  - id: F-601
+    typ: förråd
+    namn: Förråd 601
+    förrådsnummer: 601
+    placering: 55D
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0066
+    datastatus: verifierad
+  - id: F-603
+    typ: förråd
+    namn: Förråd 603
+    förrådsnummer: 603
+    placering: 55C
+    typ_av_förråd: Garageförrådet
+    tillhör_lägenhet: L-118-1-0067
+    datastatus: verifierad
+  - id: F-637
+    typ: förråd
+    namn: Förråd 637
+    förrådsnummer: 637
+    placering: 55B
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0068
+    datastatus: verifierad
+  - id: F-635
+    typ: förråd
+    namn: Förråd 635
+    förrådsnummer: 635
+    placering: 55A
+    typ_av_förråd: Skyddsrummet
+    tillhör_lägenhet: L-118-1-0069
+    datastatus: verifierad
+  - id: F-658
+    typ: förråd
+    namn: Förråd 658
+    förrådsnummer: 658
+    placering: 53E
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0070
+    datastatus: verifierad
+  - id: F-657
+    typ: förråd
+    namn: Förråd 657
+    förrådsnummer: 657
+    placering: 53D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0071
+    datastatus: verifierad
+  - id: F-656
+    typ: förråd
+    namn: Förråd 656
+    förrådsnummer: 656
+    placering: 53C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0072
+    datastatus: verifierad
+  - id: F-655
+    typ: förråd
+    namn: Förråd 655
+    förrådsnummer: 655
+    placering: 53B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0073
+    datastatus: verifierad
+  - id: F-654
+    typ: förråd
+    namn: Förråd 654
+    förrådsnummer: 654
+    placering: 53A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0074
+    datastatus: verifierad
+  - id: F-653
+    typ: förråd
+    namn: Förråd 653
+    förrådsnummer: 653
+    placering: 51D
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0075
+    datastatus: verifierad
+  - id: F-652
+    typ: förråd
+    namn: Förråd 652
+    förrådsnummer: 652
+    placering: 51C
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0076
+    datastatus: verifierad
+  - id: F-651
+    typ: förråd
+    namn: Förråd 651
+    förrådsnummer: 651
+    placering: 51B
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0077
+    datastatus: verifierad
+  - id: F-650
+    typ: förråd
+    namn: Förråd 650
+    förrådsnummer: 650
+    placering: 51A
+    typ_av_förråd: Egna vinden
+    tillhör_lägenhet: L-118-1-0078
+    datastatus: verifierad
+  - id: F-609
+    typ: förråd
+    namn: Förråd 609
+    förrådsnummer: 609
+    typ_av_förråd: Skyddsrummet
+    tillhör: BRF
+    datastatus: verifierad
+  - id: F-629
+    typ: förråd
+    namn: Förråd 629
+    förrådsnummer: 629
+    typ_av_förråd: Skyddsrummet
+    tillhör: BRF
+    datastatus: verifierad
+  - id: F-610
+    typ: förråd
+    namn: Förråd 610
+    förrådsnummer: 610
+    datastatus: preliminär
+    kommentar: Numret finns i underlaget men någon tillhörighet eller förrådstyp framgår inte.
+  - id: F-611
+    typ: förråd
+    namn: Förråd 611
+    förrådsnummer: 611
+    datastatus: preliminär
+    kommentar: Numret finns i underlaget men någon tillhörighet eller förrådstyp framgår inte.
