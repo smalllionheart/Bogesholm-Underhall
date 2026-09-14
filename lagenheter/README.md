@@ -10,7 +10,7 @@ Exempel:
 
 `Hus 57 → Lägenhet 57-01`
 
-När lägenhetsförteckningen är verifierad skapas objekt för de faktiska lägenheterna.
+Det verifierade registret omfattar 78 lägenheter och finns i [`register.yaml`](register.yaml).
 
 ## Dokumentationsprincip
 

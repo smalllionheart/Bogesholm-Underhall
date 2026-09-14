@@ -1,0 +1,43 @@
+version: '1.0'
+syfte: Gemensam modell för objekt i Brf Bogesholms tekniska underhållsregister.
+principer:
+  - Objekt-ID är stabila och återanvänds inte för en ersättningskomponent.
+  - status beskriver fysiskt eller operativt tillstånd; datastatus beskriver informationskvalitet.
+  - Underhållshistorik innehåller endast genomförda händelser, inte planerade åtgärder.
+  - Obekräftade uppgifter markeras som ej_inventerad eller preliminär och skrivs inte som fakta.
+gemensamma_fält:
+  id:
+    krav: true
+    beskrivning: Stabil och unik objektidentifierare.
+  typ:
+    krav: true
+    beskrivning: Objektkategori, exempelvis byggnad, lägenhet, dörr eller pump.
+  namn:
+    krav: true
+    beskrivning: Läsbar benämning.
+  status:
+    krav: false
+    tillåtna_värden: [I drift, Underhållsbehov, Ur drift, Ersatt, Avvecklad]
+  datastatus:
+    krav: true
+    tillåtna_värden: [ej_inventerad, preliminär, verifierad]
+  placering:
+    krav: false
+    beskrivning: Fysisk placering eller adress när den är känd.
+  egenskaper:
+    krav: false
+    beskrivning: Typspecifika, verifierade tekniska uppgifter.
+  relationer:
+    krav: false
+    beskrivning: Lista över explicita kopplingar till andra objekt.
+  underhållshistorik:
+    krav: false
+    beskrivning: Lista över genomförda underhållshändelser.
+  dokument:
+    krav: false
+    beskrivning: Hänvisningar till originaldokument i SharePoint eller annat dokumentarkiv.
+relationstyper: [contains, part_of, located_in, serves, replaces, replaced_by]
+underhållshistorik_fält: [datum, åtgärd, utförare, kostnad, dokumentreferens, kommentar]
+ersättningsregel:
+  gammalt_objekt: Behåll objektet och sätt status till Ersatt.
+  nytt_objekt: Skapa nytt ID och lägg relationen replaces till det gamla objektet.

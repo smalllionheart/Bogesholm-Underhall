@@ -2,6 +2,8 @@
 
 Detta avsnitt innehåller dokumentation av byggnadsdelar och byggnadens fysiska konstruktioner som underhålls eller byts över tid.
 
+Gemensamma regler för objekt-ID, relationer, datastatus och ersättningar finns i [`../modell/objektmodell.yaml`](../modell/objektmodell.yaml). Den befintliga dörrinventeringen är ett arbetsunderlag och blir ett permanent objektregister först när uppgifterna har kvalitetssäkrats.
+
 ## Objektkategorier
 
 - Dörrar

@@ -2,6 +2,8 @@
 
 Detta avsnitt innehåller dokumentation av föreningens byggnader.
 
+Det maskinläsbara registret finns i [`register.yaml`](register.yaml). Hus 69 är föreningslokalen; byggnaden ligger därför både i byggnadsregistret och kan vara en relation för relevanta gemensamma anläggningar.
+
 ## Byggnader
 
 - Hus 51

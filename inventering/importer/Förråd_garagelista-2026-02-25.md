@@ -26,7 +26,7 @@ Inga personuppgifter om boende har importerats.
 
 ## Datakvalitet
 
-Förråd 610 och 611 är numrerade i kalkylbladet men saknar i underlaget uppgift om tillhörighet och förrådstyp. De har därför lagts in med `datastatus: preliminär` och ska verifieras innan de används som säker information.
+Förråd 610 och 611 förekommer i källunderlaget endast som `N/A`. De ingår inte som aktiva objekt i förrådsregistret. Osäkerheten är dokumenterad som en historisk notering och får bara leda till egna objekt om framtida underlag visar att de faktiskt funnits.
 
 Parkeringsplats 771 är markerad som `BRF` i underlaget och har därför lagts in som föreningsanknuten parkeringsplats.
 

@@ -1,12 +1,39 @@
-# Brf Bogesholm – Underhåll
+# Brf Bogesholm – tekniskt underhållsregister
 
-Detta repository innehåller föreningens strukturerade dokumentation av fastigheten, dess byggnader, tekniska installationer, byggnadsdelar och gemensamma anläggningar.
+Detta repository är Brf Bogesholms långsiktiga tekniska minne: en strukturerad beskrivning av vad som finns i föreningen och vad som faktiskt har hänt med objekten över tid.
 
-Syftet är att skapa ett långsiktigt tekniskt minne för föreningen och göra det möjligt att följa underhåll och förändringar över tid.
+Det ersätter inte föreningens dokumentarkiv. Originaldokument som fakturor, ritningar, fotografier, avtal, garantier och serviceprotokoll lagras i SharePoint. Här sparas de strukturerade uppgifterna och, vid behov, en beständig hänvisning till originalunderlaget.
+
+## Avgränsning
+
+- **Underhållsregistret** beskriver verklighet och historik.
+- **Underhållsplanen** bedömer framtida åtgärder.
+- **Ekonomin** beskriver ekonomiska konsekvenser.
+- Server, nätverk, UniFi, UPS, backup och övervakning dokumenteras i det separata repot `Bogesholm-Server`.
+
+## Innehåll
+
+- [`modell/`](modell/README.md) – gemensam objektmodell, fältregler och relationer.
+- [`byggnader/`](byggnader/README.md) – 15 byggnadsobjekt, inklusive föreningslokalen i hus 69.
+- [`lagenheter/`](lagenheter/README.md) – verifierat register över 78 lägenheter, utan personuppgifter.
+- [`byggnadsdelar/`](byggnadsdelar/README.md) – bland annat dörrinventeringen med 234 inventeringspunkter.
+- [`tekniska-installationer/`](tekniska-installationer/README.md) – tekniska system och individuella installationer när de är inventerade.
+- [`gemensamma-anlaggningar/`](gemensamma-anlaggningar/README.md) – bland annat förråd samt garage och parkering.
+- [`inventering/importer/`](inventering/importer/Förråd_garagelista-2026-02-25.md) – dokumentation av importerade källunderlag.
+
+## Principer
+
+Varje fysisk eller logisk enhet som behöver egen historik får ett stabilt objekt-ID. Objekt kopplas med explicita relationer, till exempel `contains`, `part_of`, `located_in`, `serves`, `replaces` och `replaced_by`.
+
+`status` beskriver objektets fysiska eller operativa tillstånd. `datastatus` beskriver hur säker och komplett informationen är. Uppgifter med `ej_inventerad` eller `preliminär` är inte verifierade fakta.
+
+När en komponent ersätts behålls den gamla som ett historiskt objekt med status `Ersatt`. Den nya komponenten får ett nytt ID och relation till den ersatta komponenten. Genomförd underhållshistorik får aldrig blandas ihop med planerade åtgärder.
+
+Se [`modell/objektmodell.yaml`](modell/objektmodell.yaml) för fält, tillåtna värden och registreringsregler.
 
 ## Vad dokumenteras?
 
-Repositoryt ska bland annat innehålla information om:
+Repositoryt innehåller, eller kan efter verifierad inventering innehålla, information om:
 
 * Byggnader
 * Lägenheter
@@ -14,7 +41,6 @@ Repositoryt ska bland annat innehålla information om:
 * Byggnadsdelar
 * Gemensamma anläggningar och utrustning
 * Genomförda underhållsåtgärder
-* Planerade underhållsåtgärder
 * Service och återkommande kontroller
 * Byten och större förändringar
 
@@ -76,7 +102,6 @@ Ett objekt kan exempelvis ha följande aktuella status:
 
 * `I drift`
 * `Underhållsbehov`
-* `Planerat underhåll`
 * `Ur drift`
 * `Ersatt`
 * `Avvecklad`
@@ -144,7 +169,7 @@ Den första strukturen omfattar:
 
 ### Lägenheter
 
-Lägenheterna registreras när respektive hus har gåtts igenom.
+De 78 lägenheterna finns i det verifierade registret i [`lagenheter/register.yaml`](lagenheter/register.yaml).
 
 ## Princip för vidare utveckling
 

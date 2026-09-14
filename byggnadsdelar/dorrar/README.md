@@ -4,6 +4,8 @@
 
 `inventering-2026.csv` är arbetsunderlaget för inventering av dörrarna till föreningens 78 lägenheter.
 
+Inventeringen följer den gemensamma [`objektmodellen`](../../modell/objektmodell.yaml). Varje rad har ett stabilt dörr-ID, men blir ett permanent objekt först när inventeringsuppgifterna har kvalitetssäkrats.
+
 Det finns tre inventeringspunkter per lägenhet:
 
 - Entrédörr

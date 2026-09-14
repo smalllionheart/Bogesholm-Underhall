@@ -2,6 +2,8 @@
 
 Detta avsnitt innehåller dokumentation av föreningens tekniska installationer och system.
 
+Det finns ännu inget inventerat objektsregister i denna kategori. Nya objekt registreras först när de är inventerade eller har verifierat underlag, enligt [`../modell/objektmodell.yaml`](../modell/objektmodell.yaml).
+
 ## Objektkategorier
 
 - Värmepumpar

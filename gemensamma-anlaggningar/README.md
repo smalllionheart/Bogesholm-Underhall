@@ -2,6 +2,8 @@
 
 Detta avsnitt innehåller dokumentation av gemensamma anläggningar, utrustning och byggnader som inte dokumenteras som enskilda bostadshus.
 
+De befintliga maskinläsbara registren för [`förråd`](forrad/register.yaml) och [`garage och parkering`](garage-och-parkering/register.yaml) bevaras här. Övriga objekt skapas först när underlag finns, enligt [`../modell/objektmodell.yaml`](../modell/objektmodell.yaml).
+
 ## Objektkategorier
 
 - Lekredskap – 60-gården
