@@ -1,0 +1,479 @@
+källa: Förråd_garagelista 2026-02-25.xlsx
+uppdaterad: '2026-02-25'
+beskrivning: Register över garage och parkeringsplatser.
+platser:
+  - id: G-701
+    typ: garage
+    namn: Garage 701
+    platsnummer: 701
+    tillhör_lägenhet: L-118-1-0001
+    datastatus: verifierad
+  - id: G-702
+    typ: garage
+    namn: Garage 702
+    platsnummer: 702
+    tillhör_lägenhet: L-118-1-0002
+    datastatus: verifierad
+  - id: G-741
+    typ: garage
+    namn: Garage 741
+    platsnummer: 741
+    tillhör_lägenhet: L-118-1-0003
+    datastatus: verifierad
+  - id: G-740
+    typ: garage
+    namn: Garage 740
+    platsnummer: 740
+    tillhör_lägenhet: L-118-1-0004
+    datastatus: verifierad
+  - id: G-705
+    typ: garage
+    namn: Garage 705
+    platsnummer: 705
+    tillhör_lägenhet: L-118-1-0005
+    datastatus: verifierad
+  - id: G-733
+    typ: garage
+    namn: Garage 733
+    platsnummer: 733
+    tillhör_lägenhet: L-118-1-0006
+    datastatus: verifierad
+  - id: G-707
+    typ: garage
+    namn: Garage 707
+    platsnummer: 707
+    tillhör_lägenhet: L-118-1-0007
+    datastatus: verifierad
+  - id: G-716
+    typ: garage
+    namn: Garage 716
+    platsnummer: 716
+    tillhör_lägenhet: L-118-1-0008
+    datastatus: verifierad
+  - id: G-717
+    typ: garage
+    namn: Garage 717
+    platsnummer: 717
+    tillhör_lägenhet: L-118-1-0009
+    datastatus: verifierad
+  - id: G-719
+    typ: garage
+    namn: Garage 719
+    platsnummer: 719
+    tillhör_lägenhet: L-118-1-0010
+    datastatus: verifierad
+  - id: G-720
+    typ: garage
+    namn: Garage 720
+    platsnummer: 720
+    tillhör_lägenhet: L-118-1-0011
+    datastatus: verifierad
+  - id: G-715
+    typ: garage
+    namn: Garage 715
+    platsnummer: 715
+    tillhör_lägenhet: L-118-1-0012
+    datastatus: verifierad
+  - id: G-708
+    typ: garage
+    namn: Garage 708
+    platsnummer: 708
+    tillhör_lägenhet: L-118-1-0013
+    datastatus: verifierad
+  - id: G-709
+    typ: garage
+    namn: Garage 709
+    platsnummer: 709
+    tillhör_lägenhet: L-118-1-0014
+    datastatus: verifierad
+  - id: G-710
+    typ: garage
+    namn: Garage 710
+    platsnummer: 710
+    tillhör_lägenhet: L-118-1-0015
+    datastatus: verifierad
+  - id: G-765
+    typ: garage
+    namn: Garage 765
+    platsnummer: 765
+    tillhör_lägenhet: L-118-1-0016
+    datastatus: verifierad
+  - id: G-712
+    typ: garage
+    namn: Garage 712
+    platsnummer: 712
+    tillhör_lägenhet: L-118-1-0017
+    datastatus: verifierad
+  - id: G-713
+    typ: garage
+    namn: Garage 713
+    platsnummer: 713
+    tillhör_lägenhet: L-118-1-0018
+    datastatus: verifierad
+  - id: G-714
+    typ: garage
+    namn: Garage 714
+    platsnummer: 714
+    tillhör_lägenhet: L-118-1-0019
+    datastatus: verifierad
+  - id: G-721
+    typ: garage
+    namn: Garage 721
+    platsnummer: 721
+    tillhör_lägenhet: L-118-1-0020
+    datastatus: verifierad
+  - id: G-722
+    typ: garage
+    namn: Garage 722
+    platsnummer: 722
+    tillhör_lägenhet: L-118-1-0021
+    datastatus: verifierad
+  - id: G-723
+    typ: garage
+    namn: Garage 723
+    platsnummer: 723
+    tillhör_lägenhet: L-118-1-0022
+    datastatus: verifierad
+  - id: G-724
+    typ: garage
+    namn: Garage 724
+    platsnummer: 724
+    tillhör_lägenhet: L-118-1-0023
+    datastatus: verifierad
+  - id: P-910
+    typ: parkeringsplats
+    namn: Parkeringsplats 910
+    platsnummer: 910
+    tillhör_lägenhet: L-118-1-0024
+    datastatus: verifierad
+  - id: P-913
+    typ: parkeringsplats
+    namn: Parkeringsplats 913
+    platsnummer: 913
+    tillhör_lägenhet: L-118-1-0025
+    datastatus: verifierad
+  - id: G-725
+    typ: garage
+    namn: Garage 725
+    platsnummer: 725
+    tillhör_lägenhet: L-118-1-0026
+    datastatus: verifierad
+  - id: G-749
+    typ: garage
+    namn: Garage 749
+    platsnummer: 749
+    tillhör_lägenhet: L-118-1-0027
+    datastatus: verifierad
+  - id: G-727
+    typ: garage
+    namn: Garage 727
+    platsnummer: 727
+    tillhör_lägenhet: L-118-1-0028
+    datastatus: verifierad
+  - id: G-728
+    typ: garage
+    namn: Garage 728
+    platsnummer: 728
+    tillhör_lägenhet: L-118-1-0029
+    datastatus: verifierad
+  - id: G-729
+    typ: garage
+    namn: Garage 729
+    platsnummer: 729
+    tillhör_lägenhet: L-118-1-0030
+    datastatus: verifierad
+  - id: G-734
+    typ: garage
+    namn: Garage 734
+    platsnummer: 734
+    tillhör_lägenhet: L-118-1-0031
+    datastatus: verifierad
+  - id: G-735
+    typ: garage
+    namn: Garage 735
+    platsnummer: 735
+    tillhör_lägenhet: L-118-1-0032
+    datastatus: verifierad
+  - id: G-770
+    typ: garage
+    namn: Garage 770
+    platsnummer: 770
+    tillhör_lägenhet: L-118-1-0033
+    datastatus: verifierad
+  - id: G-737
+    typ: garage
+    namn: Garage 737
+    platsnummer: 737
+    tillhör_lägenhet: L-118-1-0034
+    datastatus: verifierad
+  - id: G-738
+    typ: garage
+    namn: Garage 738
+    platsnummer: 738
+    tillhör_lägenhet: L-118-1-0035
+    datastatus: verifierad
+  - id: G-730
+    typ: garage
+    namn: Garage 730
+    platsnummer: 730
+    tillhör_lägenhet: L-118-1-0036
+    datastatus: verifierad
+  - id: G-718
+    typ: garage
+    namn: Garage 718
+    platsnummer: 718
+    tillhör_lägenhet: L-118-1-0037
+    datastatus: verifierad
+  - id: G-762
+    typ: garage
+    namn: Garage 762
+    platsnummer: 762
+    tillhör_lägenhet: L-118-1-0038
+    datastatus: verifierad
+  - id: G-731
+    typ: garage
+    namn: Garage 731
+    platsnummer: 731
+    tillhör_lägenhet: L-118-1-0039
+    datastatus: verifierad
+  - id: G-761
+    typ: garage
+    namn: Garage 761
+    platsnummer: 761
+    tillhör_lägenhet: L-118-1-0040
+    datastatus: verifierad
+  - id: G-763
+    typ: garage
+    namn: Garage 763
+    platsnummer: 763
+    tillhör_lägenhet: L-118-1-0041
+    datastatus: verifierad
+  - id: G-764
+    typ: garage
+    namn: Garage 764
+    platsnummer: 764
+    tillhör_lägenhet: L-118-1-0042
+    datastatus: verifierad
+  - id: G-706
+    typ: garage
+    namn: Garage 706
+    platsnummer: 706
+    tillhör_lägenhet: L-118-1-0043
+    datastatus: verifierad
+  - id: P-912
+    typ: parkeringsplats
+    namn: Parkeringsplats 912
+    platsnummer: 912
+    tillhör_lägenhet: L-118-1-0044
+    datastatus: verifierad
+  - id: P-909
+    typ: parkeringsplats
+    namn: Parkeringsplats 909
+    platsnummer: 909
+    tillhör_lägenhet: L-118-1-0045
+    datastatus: verifierad
+  - id: G-739
+    typ: garage
+    namn: Garage 739
+    platsnummer: 739
+    tillhör_lägenhet: L-118-1-0046
+    datastatus: verifierad
+  - id: G-704
+    typ: garage
+    namn: Garage 704
+    platsnummer: 704
+    tillhör_lägenhet: L-118-1-0047
+    datastatus: verifierad
+  - id: G-703
+    typ: garage
+    namn: Garage 703
+    platsnummer: 703
+    tillhör_lägenhet: L-118-1-0048
+    datastatus: verifierad
+  - id: G-742
+    typ: garage
+    namn: Garage 742
+    platsnummer: 742
+    tillhör_lägenhet: L-118-1-0049
+    datastatus: verifierad
+  - id: G-743
+    typ: garage
+    namn: Garage 743
+    platsnummer: 743
+    tillhör_lägenhet: L-118-1-0050
+    datastatus: verifierad
+  - id: G-744
+    typ: garage
+    namn: Garage 744
+    platsnummer: 744
+    tillhör_lägenhet: L-118-1-0051
+    datastatus: verifierad
+  - id: G-745
+    typ: garage
+    namn: Garage 745
+    platsnummer: 745
+    tillhör_lägenhet: L-118-1-0052
+    datastatus: verifierad
+  - id: G-746
+    typ: garage
+    namn: Garage 746
+    platsnummer: 746
+    tillhör_lägenhet: L-118-1-0053
+    datastatus: verifierad
+  - id: P-905
+    typ: parkeringsplats
+    namn: Parkeringsplats 905
+    platsnummer: 905
+    tillhör_lägenhet: L-118-1-0054
+    datastatus: verifierad
+  - id: P-906
+    typ: parkeringsplats
+    namn: Parkeringsplats 906
+    platsnummer: 906
+    tillhör_lägenhet: L-118-1-0055
+    datastatus: verifierad
+  - id: G-747
+    typ: garage
+    namn: Garage 747
+    platsnummer: 747
+    tillhör_lägenhet: L-118-1-0056
+    datastatus: verifierad
+  - id: G-736
+    typ: garage
+    namn: Garage 736
+    platsnummer: 736
+    tillhör_lägenhet: L-118-1-0057
+    datastatus: verifierad
+  - id: G-769
+    typ: garage
+    namn: Garage 769
+    platsnummer: 769
+    tillhör_lägenhet: L-118-1-0058
+    datastatus: verifierad
+  - id: G-768
+    typ: garage
+    namn: Garage 768
+    platsnummer: 768
+    tillhör_lägenhet: L-118-1-0059
+    datastatus: verifierad
+  - id: G-767
+    typ: garage
+    namn: Garage 767
+    platsnummer: 767
+    tillhör_lägenhet: L-118-1-0060
+    datastatus: verifierad
+  - id: G-766
+    typ: garage
+    namn: Garage 766
+    platsnummer: 766
+    tillhör_lägenhet: L-118-1-0061
+    datastatus: verifierad
+  - id: G-711
+    typ: garage
+    namn: Garage 711
+    platsnummer: 711
+    tillhör_lägenhet: L-118-1-0062
+    datastatus: verifierad
+  - id: G-748
+    typ: garage
+    namn: Garage 748
+    platsnummer: 748
+    tillhör_lägenhet: L-118-1-0063
+    datastatus: verifierad
+  - id: P-911
+    typ: parkeringsplats
+    namn: Parkeringsplats 911
+    platsnummer: 911
+    tillhör_lägenhet: L-118-1-0064
+    datastatus: verifierad
+  - id: P-904
+    typ: parkeringsplats
+    namn: Parkeringsplats 904
+    platsnummer: 904
+    tillhör_lägenhet: L-118-1-0065
+    datastatus: verifierad
+  - id: G-726
+    typ: garage
+    namn: Garage 726
+    platsnummer: 726
+    tillhör_lägenhet: L-118-1-0066
+    datastatus: verifierad
+  - id: G-750
+    typ: garage
+    namn: Garage 750
+    platsnummer: 750
+    tillhör_lägenhet: L-118-1-0067
+    datastatus: verifierad
+  - id: G-751
+    typ: garage
+    namn: Garage 751
+    platsnummer: 751
+    tillhör_lägenhet: L-118-1-0068
+    datastatus: verifierad
+  - id: G-752
+    typ: garage
+    namn: Garage 752
+    platsnummer: 752
+    tillhör_lägenhet: L-118-1-0069
+    datastatus: verifierad
+  - id: G-753
+    typ: garage
+    namn: Garage 753
+    platsnummer: 753
+    tillhör_lägenhet: L-118-1-0070
+    datastatus: verifierad
+  - id: G-754
+    typ: garage
+    namn: Garage 754
+    platsnummer: 754
+    tillhör_lägenhet: L-118-1-0071
+    datastatus: verifierad
+  - id: G-755
+    typ: garage
+    namn: Garage 755
+    platsnummer: 755
+    tillhör_lägenhet: L-118-1-0072
+    datastatus: verifierad
+  - id: G-756
+    typ: garage
+    namn: Garage 756
+    platsnummer: 756
+    tillhör_lägenhet: L-118-1-0073
+    datastatus: verifierad
+  - id: G-757
+    typ: garage
+    namn: Garage 757
+    platsnummer: 757
+    tillhör_lägenhet: L-118-1-0074
+    datastatus: verifierad
+  - id: G-758
+    typ: garage
+    namn: Garage 758
+    platsnummer: 758
+    tillhör_lägenhet: L-118-1-0075
+    datastatus: verifierad
+  - id: G-759
+    typ: garage
+    namn: Garage 759
+    platsnummer: 759
+    tillhör_lägenhet: L-118-1-0076
+    datastatus: verifierad
+  - id: G-760
+    typ: garage
+    namn: Garage 760
+    platsnummer: 760
+    tillhör_lägenhet: L-118-1-0077
+    datastatus: verifierad
+  - id: G-732
+    typ: garage
+    namn: Garage 732
+    platsnummer: 732
+    tillhör_lägenhet: L-118-1-0078
+    datastatus: verifierad
+  - id: P-771
+    typ: parkeringsplats
+    namn: Parkeringsplats 771
+    platsnummer: 771
+    tillhör: BRF
+    datastatus: verifierad
+    kommentar: Markerad BRF i underlaget.
