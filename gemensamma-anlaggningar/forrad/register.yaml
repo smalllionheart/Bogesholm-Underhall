@@ -1,6 +1,10 @@
 källa: Förråd_garagelista 2026-02-25.xlsx
-uppdaterad: '2026-02-25'
-beskrivning: Register över förråd och gemensamma förrådsutrymmen.
+uppdaterad: '2026-09-14'
+beskrivning: Register över förråd och gemensamma förrådsutrymmen. Förråd 610 och 611 förekommer i källfilen endast som N/A och har enligt aktuell uppgift aldrig funnits eller inte längre funnits. De ingår därför inte som objekt i det aktuella registret.
+historisk_notering:
+  - Förråd 610 och 611 finns i källfilen endast som N/A.
+  - Enligt aktuell uppgift finns de inte längre och det är tveksamt om de någonsin funnits.
+  - De ska inte betraktas som saknade poster. Om framtida historiskt underlag visar att de faktiskt funnits kan detta dokumenteras separat utan att skapa dem som aktuella förrådsobjekt.
 förråd:
   - id: F-687
     typ: förråd
@@ -630,25 +634,17 @@ förråd:
     typ: förråd
     namn: Förråd 609
     förrådsnummer: 609
+    placering: BRF
     typ_av_förråd: Skyddsrummet
-    tillhör: BRF
+    tillhör_lägenhet: null
+    användning: BRF
     datastatus: verifierad
   - id: F-629
     typ: förråd
     namn: Förråd 629
     förrådsnummer: 629
+    placering: BRF
     typ_av_förråd: Skyddsrummet
-    tillhör: BRF
+    tillhör_lägenhet: null
+    användning: BRF
     datastatus: verifierad
-  - id: F-610
-    typ: förråd
-    namn: Förråd 610
-    förrådsnummer: 610
-    datastatus: preliminär
-    kommentar: Numret finns i underlaget men någon tillhörighet eller förrådstyp framgår inte.
-  - id: F-611
-    typ: förråd
-    namn: Förråd 611
-    förrådsnummer: 611
-    datastatus: preliminär
-    kommentar: Numret finns i underlaget men någon tillhörighet eller förrådstyp framgår inte.
