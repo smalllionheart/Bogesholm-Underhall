@@ -1,0 +1,155 @@
+# Brf Bogesholm – Underhåll
+
+Detta repository innehåller föreningens strukturerade dokumentation av fastigheten, dess byggnader, tekniska installationer, byggnadsdelar och gemensamma anläggningar.
+
+Syftet är att skapa ett långsiktigt tekniskt minne för föreningen och göra det möjligt att följa underhåll och förändringar över tid.
+
+## Vad dokumenteras?
+
+Repositoryt ska bland annat innehålla information om:
+
+* Byggnader
+* Lägenheter
+* Tekniska installationer
+* Byggnadsdelar
+* Gemensamma anläggningar och utrustning
+* Genomförda underhållsåtgärder
+* Planerade underhållsåtgärder
+* Service och återkommande kontroller
+* Byten och större förändringar
+
+## Grundprincip
+
+Dokumentationen byggs upp kring **objekt**.
+
+Ett objekt kan exempelvis vara:
+
+* ett hus
+* en lägenhet
+* en dörr
+* ett fönster
+* en värmepump
+* ett ventilationsaggregat
+* en lyktstolpe
+* en garageport
+* ett lekredskap
+
+Objekten ska vid behov kunna kopplas till varandra.
+
+Exempel:
+
+`Hus 57 → Lägenhet 57-01 → Dörr D57-01`
+
+På så sätt ska det exempelvis gå att se vilka lägenheter som har fått nya dörrar och vilka som fortfarande har äldre dörrar.
+
+## Dokument och originalunderlag
+
+GitHub används för den **strukturerade informationen och historiken**.
+
+Originaldokument såsom:
+
+* fakturor
+* serviceprotokoll
+* besiktningsprotokoll
+* garantier
+* ritningar
+* fotografier
+* offerter
+
+lagras i föreningens ordinarie dokumentarkiv.
+
+Där det är lämpligt kan objektens dokumentation innehålla en hänvisning till det aktuella originaldokumentet.
+
+## Underhållshistorik
+
+Genomförda åtgärder dokumenteras med så långt möjligt:
+
+| Datum      | Åtgärd | Utförare | Kostnad | Dokument | Kommentar |
+| ---------- | ------ | -------- | ------: | -------- | --------- |
+| YYYY-MM-DD | Åtgärd | Företag  |    0 kr | Länk     | Kommentar |
+
+Historiska uppgifter kan registreras i efterhand när de kan verifieras.
+
+## Status
+
+Ett objekt kan exempelvis ha följande aktuella status:
+
+* `I drift`
+* `Underhållsbehov`
+* `Planerat underhåll`
+* `Ur drift`
+* `Ersatt`
+* `Avvecklad`
+
+Status beskriver objektets aktuella läge.
+
+Historiken beskriver vad som faktiskt har hänt.
+
+## Struktur
+
+Den första strukturen omfattar:
+
+### Tekniska installationer
+
+* Värmepumpar
+* Cirkulationspumpar
+* Ventilationsaggregat
+* Köksfläktar
+* Undercentraler
+* Pumpar
+* Elmätare
+* Brandteknisk utrustning
+* Laddboxar
+
+### Byggnadsdelar
+
+* Dörrar
+* Fönster
+* Tak
+* Fasader
+* Avloppsbrunnar
+
+### Gemensamma anläggningar och utrustning
+
+* Lekredskap – 60-gården
+* Lekredskap – 50-gården
+* Lekredskap – 70-gården
+* Lyktstolpar
+* Garageportar
+* Grinden
+* Cykelförråd
+* Miljörum 1
+* Miljörum 2
+* Miljörum 3
+* Lusthuset – 60-gården
+* Föreningslokalen
+
+### Byggnader
+
+* Hus 51
+* Hus 53
+* Hus 55
+* Hus 57
+* Hus 59
+* Hus 61
+* Hus 63
+* Hus 65
+* Hus 67
+* Hus 69
+* Hus 71
+* Hus 73
+* Hus 75
+* Hus 77
+* Hus 79
+
+### Lägenheter
+
+Lägenheterna registreras när respektive hus har gåtts igenom.
+
+## Princip för vidare utveckling
+
+Strukturen ska byggas stegvis.
+
+Vi ska först fastställa vilka objekt som faktiskt finns och hur de hänger ihop. Därefter fylls historik, tekniska uppgifter och dokumentation på.
+
+Strukturen ska kunna utvecklas över tid utan att befintlig historik behöver göras om.
